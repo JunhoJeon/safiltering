@@ -2,7 +2,7 @@
 MATLAB implementation of <b>"Scale-aware Structure-Preserving Texture Filtering"</b>
 
 ## Contributors
-[Junho Jeon](https://sites.google.com/site/zwitterion27/) (zwitterion27@postech.ac.kr)<br>
+[Junho Jeon](http://junhojeon.github.io/) (zwitterion27@postech.ac.kr)<br>
 Hyunjoon Lee
 
 ## Citation
